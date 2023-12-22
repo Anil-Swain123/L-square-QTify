@@ -8,9 +8,9 @@ function Navbar({searchData}){
 return (
     <>
     <nav className={styles.navbar}>
-        <link href = "/">
+        <a href = "/">
         <Logo />
-        </link>
+        </a>
         <Search
         placeholder="Search a song of your choice"
         searchData={searchData}
