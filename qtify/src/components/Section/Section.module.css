@@ -18,3 +18,7 @@ gap:40px;
 cursor: pointer;
 color: var(--color-primary);
 }
+
+.filtersWrapper {
+    margin-top: 15px;
+}
